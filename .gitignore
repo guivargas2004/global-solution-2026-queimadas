@@ -1,0 +1,20 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Dataset (pesado demais pro Git - será baixado via Kaggle)
+Dados/
+data/
+
+# Sistema operacional
+.DS_Store
+.vscode/
+
+# Kaggle
+kaggle.json
+
+# Outputs temporários
+*.zip
+*.tar.gz

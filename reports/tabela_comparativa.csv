@@ -1,0 +1,8 @@
+Métrica,Baseline,Avançado,Melhoria (pp)
+Acurácia,0.5523,0.9730,+42.07
+Precision (nowildfire),0.0000,0.9656,+96.56
+Recall (nowildfire),0.0000,0.9745,+97.45
+F1 (nowildfire),0.0000,0.9700,+97.00
+Precision (wildfire),0.5523,0.9791,+42.68
+Recall (wildfire),1.0000,0.9718,-2.82
+F1 (wildfire),0.7116,0.9755,+26.39

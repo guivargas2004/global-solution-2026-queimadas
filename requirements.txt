@@ -1,0 +1,12 @@
+tensorflow==2.19.1
+tensorflow-metal==1.2.0
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+pillow
+jupyter
+ipykernel
+kaggle
+streamlit
